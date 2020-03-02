@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mineral-proton-260403",
+  "private_key_id": "de96be40a9c0265fb41a2a75eba8c3393060dccc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCGTeCPqlvx6+Hp\nsH2dZqgN77Yc4SYUGxdzvQkoagtLkoLbt2a27YvNzlO8MeM55VsbhRVu6YmQAsDg\neqds+AblrK28rXelNPQMYT3uLd0MJiNSmgUnbdwuJQebgzZqw0o6XS5LBqG9ItNs\nNS9URmlTzcGC9ZevGuB+0ZFQJ4mq5g/7XYLbkYEacH3PqQE124xUZeFttZDp7Az+\nhLM0rkD2/G7SZ0YvOPlU4kRdL20PyJzvZHWza7xJ5mVYTKCII4id2Nbl8yEAYgE5\nGyFxciuO/r1i0AzmB35CmrjokZsPQweFMOM0iaEslTyZ8n1eFBobmDhlIzRWN2rw\nSrV8mSQ5AgMBAAECggEAN/cMzCEb5mA6iCRs++GyxvfsZfVmZjtx1t9fiRFDeq7n\nS8KNkU3Ek7LWTtZlDxOllv6qk0jK85FKKWDDEtP6H8wIq9aHRHcf+WauJWnEMpNT\n5dBbtHYBqdLxbBrN2shdTpvUthvh2ww/mNhCzDX5Hxxe9oD7v9KN2RrgGEwZgHZ6\ngphQ233JxBKKUBmOz3MG5kvUQkMYdIDKnHElCwwryo5Svgf36xq/78ck9SYS21C8\nlZPcmxOEDNNF6MzF4WBAueDgkZ86k8dgXIlE1nbD4FoK/yb+rrj/imM3g4oasAfD\nYBfUm2gsZT9JcKcqqVwcmvSdo26I4ihm3jS3aIHABwKBgQC9H3W9wuIi9I4kku8z\naVDFnkfBOivsiRsdA8VXnBOPphfEupjQJCTmP/J3cC+HMQVtrKMOaQtkrGinT6ZV\n+ScgP2dC1mMu7BNjc+KwuiNWjuAD59jvUvLZm4GxfTmHlLg3ShpCh+Dp5rVz7YDP\nxC6/i5TN7xqEQhwRcvXRM9hB2wKBgQC1y+ac12rAjZrbz7icC9ivZ4+p2nZbkbal\nmpAZSYEUYh3up+9TsQQQNVi+xd9DH8BvLLQeZ0LiGDG1FxyrYagXkEZoIlS7ku/D\njaBndP6/HGvEMpyoX6v5mepcft55XRzpxsE5QzxxbFHsytQ3B2HKJBaNU8sujkkF\nA7eE/YyAewKBgGLHacHhZieHwC5OKG2b1jpBf4znC0YSHn07GPm3ZWgkAkoYg/RC\nzJsOT2Ae0lQ0QHeWMdw29WJxwn+Q1HoXFl57fz2jqE47s6zAPGi97/Mn0M15bQ8j\nLgCGfmjr1P6BqO4H4EtbmRfSDngsVpkuCJS3HNOqzRjDRtG+T7Ii+BL9AoGAbjhf\nazwX1wKDnz2DWei8ySvqqDpxg/cGW8UoFIzCG8+ZAjcDHSS3p/QQCCoDwLihfUYH\nNl+450dv67FFioq81Px+E2itIsRlZZSaad8/DDN5Cwz8egD3TW+J7eZlkANqIjqE\nr+kZ3lKkIQKgQ3TQTzQuECV7jJBrqQSl4ZWv970CgYEAqtWO7qY9VLWbhY7tVdR/\nmuJqj1u3wBTbT5PoNwdXT0KPZ89EXlKaAL1WpZNiwFxxohHKH+ca1QwlrVSLjAOE\nPjWdG0by9LWg0BMD5clFxCpCKdP814KfASZJ7dPpBLXPulhXWqe70yvO0bjPAbwi\nfF8yxfXzz5j73rLB0EFJmeI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-fsijsjwi2hfg@mineral-proton-260403.iam.gserviceaccount.com",
+  "client_id": "117951086084712239331",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-fsijsjwi2hfg%40mineral-proton-260403.iam.gserviceaccount.com"
+}
